@@ -24,3 +24,5 @@ public class calculadora {
 		System.out.println("O resultado de " + numero1 + " / " + numero2 + " é: " + resultado);
 	}
 }
+
+
