@@ -1,4 +1,4 @@
-package Exercicios_Estruturas_de_Repetição_e_Arrays_em_Java;
+package Exercicios_Estruturas_de_RepetiÃ§Ã£o_e_Arrays_em_Java;
 
 import java.util.Scanner;
 
@@ -18,7 +18,7 @@ public class Ex3_MaiorEMedia {
 			int count = 0;
 
 			do {
-				System.out.println("Digite um número: ");
+				System.out.println("Digite um nï¿½mero: ");
 				numero = scan.nextInt();
 
 				soma += numero;
@@ -30,7 +30,7 @@ public class Ex3_MaiorEMedia {
 			} while (count < 5);
 
 			System.out.println("Maior: " + maior);
-			System.out.println("Média: " + (soma / 5));
+			System.out.println("Mï¿½dia: " + (soma / 5));
 		}
 	}
 }

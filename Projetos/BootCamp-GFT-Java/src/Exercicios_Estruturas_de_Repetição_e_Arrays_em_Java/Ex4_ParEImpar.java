@@ -1,4 +1,4 @@
-package Exercicios_Estruturas_de_Repetição_e_Arrays_em_Java;
+package Exercicios_Estruturas_de_RepetiÃ§Ã£o_e_Arrays_em_Java;
 
 import java.util.Scanner;
 
@@ -16,12 +16,12 @@ public class Ex4_ParEImpar {
 			int qtdPar = 0;
 			int qtdImpar = 0;
 
-			System.out.println("Digite a quantidade de números: ");
+			System.out.println("Digite a quantidade de nï¿½meros: ");
 			qtdNumeros = scan.nextInt();
 
 			int count = 0;
 			do {
-				System.out.println("Número: ");
+				System.out.println("Nï¿½mero: ");
 				numero = scan.nextInt();
 
 				if (numero % 2 == 0)
@@ -32,8 +32,8 @@ public class Ex4_ParEImpar {
 				count++;
 			} while (count < qtdNumeros);
 
-			System.out.println("Quantidade de números Pares: " + qtdPar);
-			System.out.println("Quantidade de números Ímpares: " + qtdImpar);
+			System.out.println("Quantidade de nï¿½meros Pares: " + qtdPar);
+			System.out.println("Quantidade de nï¿½meros ï¿½mpares: " + qtdImpar);
 
 		}
 

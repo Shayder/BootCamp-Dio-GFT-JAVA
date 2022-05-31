@@ -1,4 +1,4 @@
-package Exercicios_Estruturas_de_Repetição_e_Arrays_em_Java;
+package Exercicios_Estruturas_de_RepetiÃ§Ã£o_e_Arrays_em_Java;
 
 import java.util.Scanner;
 
@@ -19,7 +19,7 @@ public class Ex2_Nota {
 				System.out.println("Nota atribuida");
 
 			while (nota < 0 || nota > 10) {
-				System.out.println("Nota Inválida! Digite novamente: ");
+				System.out.println("Nota Invï¿½lida! Digite novamente: ");
 				nota = scan.nextInt();
 
 				if (nota >= 0 && nota <= 10)

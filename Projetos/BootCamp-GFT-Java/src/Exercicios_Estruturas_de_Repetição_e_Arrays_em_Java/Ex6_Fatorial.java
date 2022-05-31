@@ -1,4 +1,4 @@
-package Exercicios_Estruturas_de_Repetição_e_Arrays_em_Java;
+package Exercicios_Estruturas_de_RepetiÃ§Ã£o_e_Arrays_em_Java;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Exercicios_Estruturas_de_Repetição_e_Arrays_em_Java;
+package Exercicios_Estruturas_de_RepetiÃ§Ã£o_e_Arrays_em_Java;
 
 import java.util.Scanner;
 
@@ -10,7 +10,7 @@ public class Ex5_Tabuada {
 	public static void tabuada() {
 		try (Scanner scan = new Scanner(System.in)) {
 
-			System.out.println("Digite o número que deseja obter a tabuada: ");
+			System.out.println("Digite o nï¿½mero que deseja obter a tabuada: ");
 			int tabuada = scan.nextInt();
 
 			System.out.println("Tabuada de " + tabuada);
